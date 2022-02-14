@@ -1,4 +1,4 @@
-# Stripe Connect Integration With Node.js 
+# Stripe Connect Integration In Node.js 
 <p align="center"><img src="https://github.com/ultimateakash/node-stripe-connect/blob/master/public/images/node-stripe-connect.png"></p> 
 
 1. Copy `.env.example` to `.env`
